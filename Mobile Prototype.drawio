@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T18:45:02.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="s5UTwHFgXzdF41Omvoq4" version="14.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-30T18:47:35.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AY9WLL-PzZnEhsZ_p6sM" version="14.8.3" type="github" pages="2">
   <diagram id="GiF1lEFgnrvaRP9dCA5b" name="Page-2">
     <mxGraphModel dx="1729" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="Ntbc2ch3VnPoXwqwGhgo-14" value="Login" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-13">
           <mxGeometry width="46.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ntbc2ch3VnPoXwqwGhgo-15" value="Booking" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=#0099cc;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-13">
+        <mxCell id="Ntbc2ch3VnPoXwqwGhgo-15" value="Check-in" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=#0099cc;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-13">
           <mxGeometry x="46.25" width="63.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ntbc2ch3VnPoXwqwGhgo-16" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-15">
@@ -57,6 +57,18 @@
         </mxCell>
         <mxCell id="Ntbc2ch3VnPoXwqwGhgo-19" value="" style="shape=line;strokeColor=#ffffff;direction=south;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-13">
           <mxGeometry x="152.5" y="5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ntbc2ch3VnPoXwqwGhgo-21" value="Check-in" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="lnj-oos2uStIl5TmH7iL-1">
+          <mxGeometry x="-752.75" y="-900" width="105.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ntbc2ch3VnPoXwqwGhgo-24" value="Send SMS after Check-in completed" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=transparent;align=left;spacingLeft=10;fontSize=8;fontColor=#33b5e5;" vertex="1" parent="lnj-oos2uStIl5TmH7iL-1">
+          <mxGeometry x="-780" y="-870" width="165" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ntbc2ch3VnPoXwqwGhgo-25" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=transparent;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-24">
+          <mxGeometry y="6" as="geometry" />
+        </mxCell>
+        <mxCell id="Ntbc2ch3VnPoXwqwGhgo-26" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;resizable=0;" vertex="1" parent="Ntbc2ch3VnPoXwqwGhgo-25">
+          <mxGeometry x="2.5" y="-2.5" width="5" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
