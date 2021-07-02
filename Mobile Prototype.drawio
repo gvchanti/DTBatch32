@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T20:53:49.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_v-4ZY2PA9NeoLiZiW7v" version="14.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-02T20:59:49.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="v1TkhHKmIKC-wBewn4-a" version="14.8.3" type="github" pages="3">
   <diagram id="GiF1lEFgnrvaRP9dCA5b" name="Android PT">
     <mxGraphModel dx="1888" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,6 +146,21 @@
         </mxCell>
         <mxCell id="BJ3SIEAem6KcUSX5XCse-36" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.shareIcon;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
           <mxGeometry x="350" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="488" y="10" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.help_icon;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="350" y="35.19999999999999" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-39" value="Button Text" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="85" y="219" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-50" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="70" y="138" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-51" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_Blue_128x128.png" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="155" y="138" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
