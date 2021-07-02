@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T21:52:47.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wZ2z_yl9koDEnsSDWjQ0" version="14.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-02T21:53:10.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HAJHHkOvoXExR13jsh7X" version="14.8.3" type="github" pages="3">
   <diagram id="GiF1lEFgnrvaRP9dCA5b" name="Android PT">
     <mxGraphModel dx="1888" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,10 +153,10 @@
         <mxCell id="BJ3SIEAem6KcUSX5XCse-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.help_icon;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
           <mxGeometry x="1198" y="35.19999999999999" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="BJ3SIEAem6KcUSX5XCse-39" value="Log in using &lt;br&gt;Digital ID" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-39" value="Log in using &lt;br&gt;Digital ID" style="strokeWidth=1;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
           <mxGeometry x="80" y="245.8" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJ3SIEAem6KcUSX5XCse-52" value="Welcome" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#2D7600;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#60a917;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+        <mxCell id="BJ3SIEAem6KcUSX5XCse-52" value="Welcome" style="strokeWidth=1;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#2D7600;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#60a917;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
           <mxGeometry x="75" y="90" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJ3SIEAem6KcUSX5XCse-63" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
