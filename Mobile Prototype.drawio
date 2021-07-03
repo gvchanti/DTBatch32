@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T11:31:17.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LtHl48xWySuel6KnOno_" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T11:31:55.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="dmd2kLpi9D4zoCXe-Qlk" version="14.8.4" type="github">
   <diagram id="UyyLrQaFHPCBGFbPwFqC" name="iOS PT">
     <mxGraphModel dx="1221" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,15 +48,6 @@
         </mxCell>
         <mxCell id="BJ3SIEAem6KcUSX5XCse-27" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.messenger_2" parent="85ln5mgcEIg6iAxWBTn8-1" vertex="1">
           <mxGeometry x="1362" y="166.2" width="64.4" height="64.8" as="geometry" />
-        </mxCell>
-        <mxCell id="BJ3SIEAem6KcUSX5XCse-28" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google" parent="85ln5mgcEIg6iAxWBTn8-1" vertex="1">
-          <mxGeometry x="1362.8" y="245.8" width="65.2" height="69.4" as="geometry" />
-        </mxCell>
-        <mxCell id="BJ3SIEAem6KcUSX5XCse-30" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" parent="85ln5mgcEIg6iAxWBTn8-1" vertex="1">
-          <mxGeometry x="1367" y="650" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="BJ3SIEAem6KcUSX5XCse-32" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" parent="85ln5mgcEIg6iAxWBTn8-1" vertex="1">
-          <mxGeometry x="1598" width="102.4" height="102.4" as="geometry" />
         </mxCell>
         <mxCell id="BJ3SIEAem6KcUSX5XCse-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;" parent="85ln5mgcEIg6iAxWBTn8-1" vertex="1">
           <mxGeometry x="1198" y="160" width="50" height="50" as="geometry" />
