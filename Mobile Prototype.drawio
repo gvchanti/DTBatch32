@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T10:29:41.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="wCD6hiO7XyKujVNsrbd2" version="14.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-03T10:34:18.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="r-YhBAohp9LDwc-Xmzdn" version="14.8.4" type="github" pages="3">
   <diagram id="GiF1lEFgnrvaRP9dCA5b" name="Android PT">
     <mxGraphModel dx="1888" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -305,6 +305,17 @@
         </mxCell>
         <mxCell id="vCLHTCEVKEaiTLrj-hCv-19" value="" style="shape=mxgraph.signs.travel.information_2;html=1;pointerEvents=1;fillColor=#0050ef;strokeColor=#001DBC;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontColor=#ffffff;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
           <mxGeometry x="1133" y="330" width="15" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vCLHTCEVKEaiTLrj-hCv-22" value="Disabled switch element" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#E9ECEF;fontColor=#7D868C;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="770" y="402" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vCLHTCEVKEaiTLrj-hCv-23" value="We found interests from you social media platform" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.popover;fillColor=#1ba1e2;strokeColor=#006EAF;dx=35;dy=5;rSize=5;direction=south;whiteSpace=wrap;verticalAlign=bottom;spacing=5;fontSize=10;spacingLeft=5;align=left;fontColor=#ffffff;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="760" y="90" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCLHTCEVKEaiTLrj-hCv-24" value="Your favorite sport options&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;fillColor=#F7F7F7;strokeColor=#CCCCCC;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=5;" vertex="1" parent="vCLHTCEVKEaiTLrj-hCv-23">
+          <mxGeometry x="1" width="195" height="25" relative="1" as="geometry">
+            <mxPoint x="-195" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
