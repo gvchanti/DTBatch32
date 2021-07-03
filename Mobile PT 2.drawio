@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T11:39:33.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="eaASLVWh3KxQCFIBSz-M" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T11:40:59.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="g7XSRuH88D7owSZBbsZ_" version="14.8.4" type="github">
   <diagram id="UyyLrQaFHPCBGFbPwFqC" name="iOS PT - Page1-2">
-    <mxGraphModel dx="1730" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="85ln5mgcEIg6iAxWBTn8-0" />
         <mxCell id="85ln5mgcEIg6iAxWBTn8-1" parent="85ln5mgcEIg6iAxWBTn8-0" />
@@ -195,10 +195,10 @@
           <mxGeometry x="280" y="408" width="15" height="25" as="geometry" />
         </mxCell>
         <mxCell id="xczq60w60kf2v4jXETLq-5" value="We found interests from your social media platform. Proving special offers to you" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.popover;fillColor=#1ba1e2;dx=35;dy=5;rSize=5;direction=south;whiteSpace=wrap;verticalAlign=bottom;spacing=5;fontSize=10;spacingLeft=5;align=left;fontColor=#ffffff;strokeColor=#0000CC;fontStyle=4" parent="85ln5mgcEIg6iAxWBTn8-1" vertex="1">
-          <mxGeometry x="100" y="130" width="200" height="70" as="geometry" />
+          <mxGeometry x="100" y="130" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xczq60w60kf2v4jXETLq-6" value="Your favorite sports for purchase&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;fillColor=#F7F7F7;strokeColor=#CCCCCC;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=5;fontStyle=4" parent="xczq60w60kf2v4jXETLq-5" vertex="1">
-          <mxGeometry x="1" width="195" height="25" relative="1" as="geometry">
+        <mxCell id="xczq60w60kf2v4jXETLq-6" value="Your favorite food &amp;amp; holiday destinations for your purchase&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;fillColor=#F7F7F7;strokeColor=#CCCCCC;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=5;fontStyle=4" parent="xczq60w60kf2v4jXETLq-5" vertex="1">
+          <mxGeometry x="1" width="195" height="30" relative="1" as="geometry">
             <mxPoint x="-195" as="offset" />
           </mxGeometry>
         </mxCell>
