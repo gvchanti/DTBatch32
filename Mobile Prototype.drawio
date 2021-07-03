@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T11:00:11.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Gjocn60WLLWQouiKpn8S" version="14.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-03T11:00:58.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="nvDSFIOhe_tS-emRry6V" version="14.8.4" type="github" pages="3">
   <diagram id="GiF1lEFgnrvaRP9dCA5b" name="Android PT">
     <mxGraphModel dx="1888" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -371,6 +371,9 @@
         </mxCell>
         <mxCell id="vCLHTCEVKEaiTLrj-hCv-60" value="Proceed to Buy &amp;gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;labelBackgroundColor=none;sketch=0;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
           <mxGeometry x="760" y="370" width="170" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vCLHTCEVKEaiTLrj-hCv-63" value="Skip to Check-in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;labelBackgroundColor=none;sketch=0;fillColor=#CCCCCC;" vertex="1" parent="85ln5mgcEIg6iAxWBTn8-1">
+          <mxGeometry x="760" y="405" width="170" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
